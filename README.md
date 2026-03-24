@@ -4,6 +4,7 @@ A web-based interactive tool to help pet owners configure grooming options for t
 
 This tool is ideal for showcasing your pet grooming product options, collecting user preferences, and can be embedded into websites, including WordPress pages.
 
+Learn more: [KUDI](https://thekudipet.com/about/)
 ---
 
 ## **Features**
